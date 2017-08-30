@@ -1,5 +1,5 @@
 # hello-world
-Introduction to using GitHub.  I am using this repo to learn about using GitHub.  I have seen it used and have experience with Microsoft's Team Services.  
+Introduction to using GitHub.  I am using this repo to learn about using GitHub.  I have seen it used and have experience with Microsoft's Team Services, but have not used GitHub in my projects.
 
 # About me
 My name is Humberto Cruz-Oyola Jr.  I find it difficult to decide what exactly to include in this portion that is interesting enough for someone to want to read. I guess my most notable trait is that I enjoy software development very much.  I love encountering situations in which creating automation systems helps improve the quality or work, as well as make performing the work more enjoyable.  My dream is be able to create automation systems that improve the overall quality of life for as many people as possible.  
